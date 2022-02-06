@@ -1,5 +1,5 @@
-shape,width,height,cx,cy,r,ex,ey,rx,ry,x1,x2,y1,y2,color,stroke
-line,,,,,,,,,,100,200,50,150,,blue
-rectangle,200,100,,,,,,,,,,,,pink,
-circle,,,400,350,50,,,,,,,,,red,
-ellipse,,,,,,250,150,150,50,,,,,purple,
+shape,width,height,cx,cy,r,ex,ey,rx,ry,x1,x2,y1,y2,color,stroke,concept
+line,,,,,,,,,,100,200,50,150,,blue,enter
+rectangle,200,100,,,,,,,,,,,,pink,,exit
+circle,,,400,350,50,,,,,,,,,red,,exit
+ellipse,,,,,,250,150,150,50,,,,,purple,,enter
