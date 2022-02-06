@@ -1,4 +1,4 @@
-shape,width,height,cx,cy,r,ex,ey,rx,ry,x1,x2 y1,y2,color,stroke
+shape,width,height,cx,cy,r,ex,ey,rx,ry,x1,x2,y1,y2,color,stroke
 line,,,,,,,,,,100,200,50,150,,blue
 rectangle,200,100,,,,,,,,,,,,pink,
 circle,,,250,50,50,,,,,,,,,red,
